@@ -1,0 +1,7 @@
+.description{
+  display: flex;
+}
+
+.two-columns__main-text p:nth-child(-n+2){
+  margin-bottom: 30px;
+}
