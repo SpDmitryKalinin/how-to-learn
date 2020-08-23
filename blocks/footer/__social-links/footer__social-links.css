@@ -6,4 +6,9 @@
   font-size: 18px;
   font-weight: normal;
   align-items: center;
+  transition: opacity 0.5s;
+}
+
+.footer__social-links:hover{
+  opacity: 0.5;
 }
