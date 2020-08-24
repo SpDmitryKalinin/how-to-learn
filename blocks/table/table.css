@@ -8,8 +8,12 @@
   z-index: 2;
 }
 
-.table div:nth-child(-n+4){
+.table .table__cell:nth-child(-n+4){
   margin-bottom: 60px;
+}
+
+.table .table__cell_theme_dark:nth-child(-n+5){
+  margin-bottom: 80px;
 }
 
   
