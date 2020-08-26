@@ -3,6 +3,7 @@
     display: flex;
     justify-content: center;
     list-style-type: none;
+    margin-left: 0;
 }
 
 .video__iframes .video__iframe:nth-child(1){
